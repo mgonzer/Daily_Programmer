@@ -19,3 +19,4 @@ function rampNumber(number){
 }
 
 console.log(rampNumber(12342));
+console.log(rampNumber(5678));
