@@ -1,5 +1,5 @@
 //reduce product of digits until only one digit remains.
-//return the numerb of times this process occured.
+//return the number of times this process occured.
 
 function persistent(number){
   let count = 0;
