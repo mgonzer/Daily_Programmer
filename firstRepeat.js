@@ -13,4 +13,6 @@ function repeatLetter(string){
   return null;
 }
 
+
+
 console.log(repeatLetter('ABCDDA'));
