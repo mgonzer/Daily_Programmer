@@ -4,7 +4,7 @@
 
 function findParis(arr, num){
   for(let i = 0; i < arr.length; i++){
-    for(let j = arr.length-1; j > i; j--){
+    for(let j = 0; j < arr.length; j++){
       if(arr[i]*arr[j]==num){
         return [arr[i],arr[j]]
       }
